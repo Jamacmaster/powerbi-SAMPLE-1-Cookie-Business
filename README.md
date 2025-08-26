@@ -17,15 +17,8 @@ This dashboard was created as a **practice project** for data visualization in P
 - Microsoft Power BI Desktop  
 - Dataset: Public sample dataset (internet-sourced)  
 
-## 🚀 How to Use  
-1. Clone or download this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Interact with the dashboard to explore insights.  
-
 ## 📂 Files  
 - `CookieDashboard.pbix` → Main Power BI file  
 - `README.md` → Documentation  
-
----
 
 📌 *Note: This project is for educational and portfolio purposes only. Data is not from an actual cookie company.*  
